@@ -13,7 +13,7 @@
 .nav-logo{
     height: 50px;
     width: 125px;
-    background-image: url("amazon.png");
+    background-image: url("./images/amazon.png");
     background-size:cover;
 }
 .deliver-location{
@@ -141,7 +141,7 @@
 }
 
 .hero{
-    background-image: url("hero.jpg");
+    background-image: url("./images/hero.jpg");
     height: 330px;
     background-size: cover;
     display: flex;
@@ -208,7 +208,7 @@
 
 .inner-img{
     height: 75%;
-    background-image: url("jeans.jpg");
+    background-image: url("./images/jeans.jpg");
     background-size: cover;
 
 }
